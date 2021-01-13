@@ -1,0 +1,15 @@
+{
+    "name": "History Manager",
+    "version": "1.0",
+    "manifest_version": 2,
+    "background": {
+        "persistent": false,
+        "scripts": ["options.js"]
+    },
+    "permissions": ["storage", "history"],
+    "options_page": "options.html",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Test"
+    }
+}

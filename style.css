@@ -1,0 +1,27 @@
+/* Popup Menu */
+
+#popupMenu {
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+#blacklist {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 20px;
+    height: 40px;
+    width:150px;
+    border-radius: 2px; 
+}
+
+#clearHisButt {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 20px;
+    height: 40px;
+    width:150px;
+    border-radius: 2px; 
+}
